@@ -13,11 +13,10 @@
 ## 🚀 About Me
 
 <!-- Add your bio here -->
-- 🎯 **Currently:** _[Add your current role/position]_  
-- 🌱 **Learning:** _[Technologies/concepts you're learning]_  
-- 💡 **Interests:** _[Your interests]_  
-- 📍 **Location:** _[Your location]_  
-- ⚡ **Fun Fact:** _[Share something interesting about yourself]_  
+- 🎯 **Currently:** _AI-DS Student_  
+- 🌱 **Learning:** _Agentic AI_
+- 💡 **Interests:** _Working with AI_  
+- 📍 **Location:** _Mumbai_ 
 
 ---
 
@@ -75,12 +74,6 @@
 - 🎯 Comprehensive data visualization and analysis of Indian city GDP metrics
 - 📌 [View Repository](https://github.com/7Aayush11/IndiaCityGDP)
 
-### 🚀 Smart Task Manager
-**AI-Powered Task Management Application**
-- 🔧 Technologies: Full Stack, AI Predictions
-- 🎯 Intelligent task management with AI predictions for advance decision making
-- 📌 [View Repository](https://github.com/7Aayush11/smart-task-manager)
-
 ### 🌾 GreenGuard
 **Crop Disease Detection Chatbot for Farmers**
 - 🔧 Technologies: JavaScript, Chatbot, AI
@@ -91,9 +84,9 @@
 
 ## 📈 What I'm Working On
 
-- 🚀 _[Current project or goal]_  
-- 📚 _[What you're currently learning]_  
-- 🤝 _[Open to collaboration on...]_
+- 🚀 _Working on GrooMate_  
+- 📚 _Learning about AI Agents_  
+- 🤝 _If you like my profile consider me working on AI/ML with you_
 
 ---
 
@@ -101,10 +94,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-username])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[your-username])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)]([your-portfolio-link])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/aayush-nisar-b71715184))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisarayush1172004@gmail.com)
 
 </div>
 
