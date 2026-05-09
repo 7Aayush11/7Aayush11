@@ -40,11 +40,13 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7Aayush11&show_icons=true&theme=radical)
+![Stats Card](https://github-readme-stats.vercel.app/api?username=7Aayush11&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Aayush11&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7Aayush11&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+**💡 Tip:** If the cards above aren't loading, visit your [GitHub Profile](https://github.com/7Aayush11) to see your stats directly!
 
 ---
 
