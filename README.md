@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 <!-- Add your bio here -->
-- 🎯 **Currently:** _AI-DS Student_  
+- 🎯 **Currently:** _AI-DS Graduate_, _Job Hunting_  
 - 🌱 **Learning:** _Agentic AI_
 - 💡 **Interests:** _Working with AI_  
 - 📍 **Location:** _Mumbai_ 
